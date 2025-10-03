@@ -77,6 +77,9 @@ Responsável por realizar diversas validações envolvendo strings.
 | NaoDeveConterAPalavraTesteNoTexto                | Deve retornar falso quando o texto não contém a palavra "teste"                                       |
 | TextoDeveTerminarComAPalavraProcurado            | Deve retornar verdadeiro quando o texto termina com a palavra "procurado"                             |
 
+![Estrutura Visual do Projeto](Imagens/projeto.png)
+
+
 ## Execução dos Testes
 
 Para rodar os testes, basta executar no diretório da solução:
@@ -95,6 +98,6 @@ Aprovado!  – Com falha:     0, Aprovado:    10, Ignorado:     0, Total:    10
 ---
 
 
-![Estrutura Visual do Projeto](Imagens/projeto.png)
+
 
 
