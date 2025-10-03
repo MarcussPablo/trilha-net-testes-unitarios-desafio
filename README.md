@@ -88,11 +88,10 @@ Resultado
 
 Aprovado!  – Com falha:     0, Aprovado:    10, Ignorado:     0, Total:    10
 Estrutura Visual do Projeto
-![Texto alternativo](./Imagens/projeto.png)
+
+(Imagens\projeto.png)
 
 
 ---
 
-Marcus, esse `README.md` já tá no **formato de entrega**, mostrando que todos os testes foram implementados e passaram ✅.  
 
-Quer que eu deixe ainda mais "acadêmico" (com seção de **Aprendizados** no final), ou melhor manter direto e objetivo só mostrando que o desafio foi concluído?
